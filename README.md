@@ -4,9 +4,10 @@
 *   日期：2023.5.22 
 *   转载请注明出处
 
-## __关键词__
+## __项目大致__
 
-中医穴位、iOS、AR、ARkit、SceneKit、homogeneous coordinate
+* 这是一个基于iOS平台的项目，使用的前端是当前较为先进的SwiftUI，后端语言是swift（集成在app中）使用了Apple的ARKit。
+* 本作品已经获得计算机软件著作权证书，证书号 `2022SR1532516`
 
 
 ## __初始化AR__
